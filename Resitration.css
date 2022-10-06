@@ -1,0 +1,24 @@
+
+.reg{
+    text-align: center;
+    color: green;
+    padding-top: 10px;
+}
+
+span{
+    color: red;
+}
+
+.btn{
+    margin: auto;
+    display: flex;
+    padding-left: 4cm;
+    padding-right: 4cm;
+}
+.link{
+    text-align: center;
+    margin-top: 0.5cm;
+}
+.card{
+    border: 1px solid;
+}
